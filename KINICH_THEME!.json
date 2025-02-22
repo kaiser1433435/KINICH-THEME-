@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "author": "KAISER",
+    "version": "0.0.1",
+    "name": "KINICH THEME!",
+    "transparency_mode": 3,
+    "license": "kinichuwu",
+    "updater": "https://raw.githubusercontent.com/kaiser1433435/KINICH-THEME/refs/heads/main/KINICH_THEME.json"
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1335775821499207815/1342709831097782342/retouch_2025022212053828.png?ex=67ba9f7a&is=67b94dfa&hm=dbedf0eeac73304d2c385146cb457585249f13db314181462aa3f0a014f83fc1&",
+    "overlay_alpha": 175,
+    "blur_radius": 0
+  },
+  "simple_colors": {
+    "accent": -9044887,
+    "background": 410892,
+    "background_secondary": 532486,
+    "mention_highlight": -613240729,
+    "active_channel": -412109,
+    "statusbar": -16244730
+  },
+  "colors": {
+    "link": -14682438
+  },
+  "drawable_tints": {}
+}
